@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RdmaApp", "RdmaApp\RdmaApp.vcxproj", "{C4C1FB82-7921-4D8D-85E7-24EA931BBF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62478956-6574-4F83-8FEB-815CCCE8AFE6}.Debug|x64.ActiveCfg = Debug|x64
+		{62478956-6574-4F83-8FEB-815CCCE8AFE6}.Debug|x64.Build.0 = Debug|x64
+		{62478956-6574-4F83-8FEB-815CCCE8AFE6}.Release|x64.ActiveCfg = Release|x64
+		{62478956-6574-4F83-8FEB-815CCCE8AFE6}.Release|x64.Build.0 = Release|x64
+		{C4C1FB82-7921-4D8D-85E7-24EA931BBF44}.Debug|x64.ActiveCfg = Debug|x64
+		{C4C1FB82-7921-4D8D-85E7-24EA931BBF44}.Debug|x64.Build.0 = Debug|x64
+		{C4C1FB82-7921-4D8D-85E7-24EA931BBF44}.Release|x64.ActiveCfg = Release|x64
+		{C4C1FB82-7921-4D8D-85E7-24EA931BBF44}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F32B068-B0FA-4DC3-BA5C-A07D12B678FD}
+	EndGlobalSection
+EndGlobal
